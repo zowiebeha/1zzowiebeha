@@ -4,7 +4,7 @@ Welcome to my Github.
 
 ## Contact 📬
 
-I welcome all contacts. If you'd like to contact me, reach out through [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) messages :)
+I welcome all contacts. If you'd like to get in touch, reach out through [Linkedin](https://www.linkedin.com/in/zowie-beha-4b0498250) messages :)
 
 ## My skill-set 🪃:
 
