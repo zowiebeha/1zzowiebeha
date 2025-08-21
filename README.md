@@ -14,7 +14,7 @@ HTML, CSS, SCSS, Python
 ### Intermediate:
 ES2025, Git
 
-### Beginner
+### Beginner:
 Figma, Node, SQL, WCAG, ARIA
 
 
