@@ -9,13 +9,13 @@ I welcome all contacts. If you'd like to contact me, reach out through [Linkedin
 ## My skill-set 🪃:
 
 ### Strongest:
-HTML, CSS, Sass, Python
+HTML, CSS, SCSS, Python
 
 ### Intermediate:
-JavaScript, Git, jQuery
+ES2025, Git
 
 ### Beginner
-Node, WCAG, ARIA, SQL
+Figma, Node, SQL, WCAG, ARIA
 
 
 <!--
